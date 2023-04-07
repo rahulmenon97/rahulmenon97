@@ -1,8 +1,7 @@
 # 💫 About Me:
 A Data Analyst who previously worked in Python, Machine Learning, Marketing Analytics, and the Consumer industry for the past 2 years, I’ve had the opportunity to resolve issues on a day-to-day basis along with the most talented people. I was lauded by the client for being an exemplar of ownership and conduct for the project. Focusing on data-intensive applications, my accomplishments, and substantial contributions led to greater exposure, where I managed a team, ensuring timely deliverables, mentoring the new inductees, and working with individuals across the world on multifaceted problems that required holistic solutions, enhancing my interpersonal skills that facilitated client relationships.
 
-As a graduate student at the University of Chicago, I am currently pursuing my dream to become a
-Data analytics professional discovering new topics such as deep learning, big data, and management. In addition to academics, I had the opportunity to organize and spearhead my university’s largest conference, E-Summit which gave me an arena to showcase my managerial abilities and taught me to be patient in stressful situations.
+As a graduate student at the University of Chicago, I am currently pursuing my dream to become a Data analytics professional discovering new topics such as deep learning, big data, and management. In addition to academics, I had the opportunity to organize and spearhead my university’s largest conference, E-Summit which gave me an arena to showcase my managerial abilities and taught me to be patient in stressful situations.
 
 Feel free to message me and talk about anything. If I can be of any help, it would be my pleasure!
 
